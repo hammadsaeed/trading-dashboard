@@ -9,7 +9,7 @@
 - Trading history;
 
 ## Installation
-Works in conjunction with [Link text Here](https://github.com/hammadsaeed/binance-api). 
+Works in conjunction with [Api](https://github.com/hammadsaeed/binance-api). 
 Install the dependencies, configure binance api in .env and start the app.
 
 ```sh
