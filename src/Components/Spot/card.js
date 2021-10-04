@@ -3,7 +3,6 @@ import { makeStyles } from '@material-ui/core/styles';
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
 import Typography from '@material-ui/core/Typography';
-// REACT_APP_API_ENDPOINT = 192.168.1.4:8080
 const useStyles = makeStyles({
   root: {
     textAlignLast: 'justify',
